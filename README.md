@@ -100,7 +100,7 @@
 └── 📂 08-QUICK-START/
     ├── Setup_Guide.md
     ├── First_24_Hours.md
-    └── Success_Checklist.md
+    ├── Success_Checklist.md
 ```
 
 ---
@@ -270,7 +270,7 @@ If AI Empire 2025 doesn't increase your productivity by 200% or generate at leas
 
 ## 📞 **Support & Community**
 
-- **📧 Email Support**: support@nosyt.com
+- **📧 Email Support**: hi@nosytlabs.com
 - **💬 Discord Community**: Exclusive access included
 - **📱 Monthly Live Calls**: Q&A with AI experts
 - **📚 Knowledge Base**: 100+ tutorials and guides
