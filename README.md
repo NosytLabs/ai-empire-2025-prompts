@@ -93,10 +93,10 @@
 │   ├── Trend_Prediction_Prompts.md
 │   └── ROI_Calculation_Templates.md
 ├── 📂 07-BONUS-MATERIALS/
-│   ├── AI_Empire_Masterclass.mp4
-│   ├── ROI_Calculator.xlsx
-│   ├── Automation_Templates.zip
-│   └── Success_Case_Studies.pdf
+│   ├── AI_Empire_Masterclass.txt
+│   ├── ROI_Calculator.py
+│   ├── Automation_Templates/
+│   └── Success_Case_Studies.md
 └── 📂 08-QUICK-START/
     ├── Setup_Guide.md
     ├── First_24_Hours.md
